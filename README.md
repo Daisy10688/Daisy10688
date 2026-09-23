@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [Daisy Awuor]
 
-<!--
-**Daisy10688/Daisy10688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning computer programming at wecan academy.
+- I'm interested in coding and web development.
+- I'm looking to collaborate on projects,gain new skills and grow in my programming journey.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Html/CSS
+- WordPress 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+-market place website — browsing, buying and selling of products 
+
+## How to Reach Me
+- Email: daisyawuor10688@gmail.com
+- LinkedIn: Daisy Otieno
+  
