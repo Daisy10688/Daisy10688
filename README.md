@@ -1,5 +1,4 @@
-# Hi, I'm [Daisy Awuor]
-
+# Hi, I'm Daisy Awuor.
 ## About Me
 - I'm currently learning computer programming at wecan academy.
 - I'm interested in coding and web development.
