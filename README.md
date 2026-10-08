@@ -15,4 +15,10 @@
 ## How to Reach Me
 - Email: daisyawuor10688@gmail.com
 - LinkedIn: Daisy Otieno
-  
+- GitHub: https://github.com/Daisy10688
+ ## Links
+ Teamwork: https://github.com/Daisy10688/programming-languages-overview
+ markdown: https://github.com/Daisy10688/Daisy10688/blob/main/markdown-practice.md
+ https://github.com/Daisy10688/Daisy10688.github.io
+ 
+ 
