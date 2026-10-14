@@ -10,10 +10,13 @@
 - WordPress 
 
 ## Current Projects
--market place website — browsing, buying and selling of products 
+-market place website — browsing, buying and selling of products
+## Setup
+user.name=Daisy Awuor
+user.email=daisyaongola@gmail.com
 
 ## How to Reach Me
-- Email: daisyawuor10688@gmail.com
+- Email: daisyaongola@gmail.com
 - LinkedIn: Daisy Otieno
 - GitHub: https://github.com/Daisy10688
  ## Links
