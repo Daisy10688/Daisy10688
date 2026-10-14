@@ -12,7 +12,7 @@
 ## Current Projects
 -market place website — browsing, buying and selling of products
 ## Setup
-user.name=Daisy Awuor
+user.name=Daisy10688
 user.email=daisyaongola@gmail.com
 
 ## How to Reach Me
