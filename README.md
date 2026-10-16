@@ -15,7 +15,7 @@
 **Github**: [@Daisy10688] (https://github.com/Daisy10688)
 
 ## Colaboration
-- **Team**: [@WairimuEvans] (https://github.com/WairimuEvans),[@TashleyFai] (https://github.com/TashleyFai)
+- **Team**: [@WairimuEvans] (https://github.com/WairimuEvans), [@TashleyFai] (https://github.com/TashleyFai)
 - **Shared Repo**: https://github.com/Daisy10688/iyf-s12-week-00-team-Daisy10688
 
 ## Setup
@@ -27,8 +27,8 @@ user.email=daisyaongola@gmail.com
 - LinkedIn: Daisy Otieno
 - GitHub: https://github.com/Daisy10688
  ## Links
- Teamwork: https://github.com/Daisy10688/programming-languages-overview
- markdown: https://github.com/Daisy10688/Daisy10688/blob/main/markdown-practice.md
+ Teamwork: https://github.com/Daisy10688/iyf-s12-week-00-team-Daisy10688
+ markdown: https://github.com/Daisy10688/Daisy10688/blob/main/markdown-practice.md  
  https://github.com/Daisy10688/Daisy10688.github.io
 ## live Demo
 https://github.com/Daisy10688/iyf-s11-week-01-Daisy10688
