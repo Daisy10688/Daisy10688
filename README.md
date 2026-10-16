@@ -7,10 +7,17 @@
 ## Skills I'm Building
 - Git and GitHub
 - Html/CSS
-- WordPress 
+- Javascript 
 
-## Current Projects
--market place website — browsing, buying and selling of products
+# Week 00 Git and Github
+## Author
+**Name**:Daisy Awuor
+**Github**: [@Daisy10688] (https://github.com/Daisy10688)
+
+## Colaboration
+- **Team**: [@WairimuEvans] (https://github.com/WairimuEvans),[@TashleyFai] (https://github.com/TashleyFai)
+- **Shared Repo**: https://github.com/Daisy10688/iyf-s12-week-00-team-Daisy10688
+
 ## Setup
 user.name=Daisy10688
 user.email=daisyaongola@gmail.com
